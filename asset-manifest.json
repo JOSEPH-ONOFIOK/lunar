@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/lunar/static/css/main.06d4fd8c.css",
+    "main.css": "/lunar/static/css/main.850b85f1.css",
     "main.js": "/lunar/static/js/main.d28b5202.js",
     "static/media/back.png": "/lunar/static/media/back.62b343f45906b69cc51c.png",
     "static/media/go3v2.ttf": "/lunar/static/media/go3v2.59287eb584ab9acf3e25.ttf",
     "static/media/suprise.png": "/lunar/static/media/suprise.032ed2367b1270da8b8b.png",
     "static/media/photo_2025-01-03_20-24-21 1.png": "/lunar/static/media/photo_2025-01-03_20-24-21 1.e1292efc3a5b2273010c.png",
     "index.html": "/lunar/index.html",
-    "main.06d4fd8c.css.map": "/lunar/static/css/main.06d4fd8c.css.map",
+    "main.850b85f1.css.map": "/lunar/static/css/main.850b85f1.css.map",
     "main.d28b5202.js.map": "/lunar/static/js/main.d28b5202.js.map"
   },
   "entrypoints": [
-    "static/css/main.06d4fd8c.css",
+    "static/css/main.850b85f1.css",
     "static/js/main.d28b5202.js"
   ]
 }
